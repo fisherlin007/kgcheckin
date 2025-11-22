@@ -1,3 +1,5 @@
+![checkin](https://github.com/fisherlin007/kgcheckin/workflows/auto-checkin/badge.svg)
+
 # 酷狗签到
 
 GitHub Actions 实现 `酷狗概念VIP` 自动签到
@@ -64,4 +66,3 @@ API源代码来自 [MakcRe/KuGouMusicApi](https://github.com/MakcRe/KuGouMusicAp
    ![步骤三](./imgs/步骤三.jpg)
 1. 步骤四
    ![步骤四](./imgs/步骤四.jpg)
-![checkin](https://github.com/fisherlin007/kgcheckin/workflows/auto-checkin/badge.svg)
